@@ -1,0 +1,7 @@
+Id	S.Name	A.AssigM1	A.AssigM2	W.AssigM1	W.AssigM2	T.W.AssignM	W.M.Final	SubTotal	FinTotM
+102	hyderabad	65	39	78	16	27	43	39	82
+103	Secundrabad	65	39	78	16	27	43	39	82
+104	Kerala		65	39	78	16	27	43	39	82
+105	Shatrath	65	39	78	16	27	43	39	82
+106	Shiva		65	39	78	16	27	43	39	82
+107	india		65	39	78	16	27	43	39	82
